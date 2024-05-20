@@ -1,0 +1,1 @@
+{"documents": [".docx", ".doc", ".pdf", ".odt", ".xls", ".xlsx", ".ppt", ".pptx"], "music": [".mp3", ".wav", ".flac", ".ogg", ".m4a"], "videos": [".mp4", ".mkv", ".avi", ".wmv", ".mov", ".webm"], "pictures": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tiff"], "archives": [".zip", ".rar", ".7z", ".tar", ".gz", ".bz2"], "executables": [".exe", ".msi", ".dmg", ".deb", ".rpm"]}
